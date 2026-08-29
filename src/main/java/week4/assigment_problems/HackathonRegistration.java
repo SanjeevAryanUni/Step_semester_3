@@ -1,0 +1,38 @@
+package week4.assigment_problems;
+
+public class HackathonRegistration {
+    public static class Participant {
+        String name;
+        String teamName;
+        boolean registered;
+
+        public Participant(String name, String teamName) {
+            this.name = name;
+            this.teamName = teamName;
+            this.registered = true;
+        }
+
+        public Participant(String name) {
+            this(name, "Unassigned");
+        }
+
+        public void printStatus() {
+            System.out.println(name + " | " + teamName + " | Registered: " + registered);
+        }
+    }
+
+    public static void main(String[] args) {
+        String[] names = {"Ravi", "Meera", "Karthik", "Divya"};
+        String[] teamNames = {"ByteBusters", "", "CodeCrafters", ""};
+
+        for (int i = 0; i < names.length; i++) {
+            Participant p;
+            if (teamNames[i] == null || teamNames[i].isEmpty()) {
+                p = new Participant(names[i]);
+            } else {
+                p = new Participant(names[i], teamNames[i]);
+            }
+            p.printStatus();
+        }
+    }
+}
