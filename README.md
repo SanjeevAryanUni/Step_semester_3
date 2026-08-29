@@ -2,20 +2,58 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
-## Date: 27-08-2026
+## Date: 29-08-2026
 
 **Today's Work:**
-- Initialized GitHub repository structure following Step Semester 3 branching workflow standard.
-- Completed OOP Week 3 Category B Assignment problems:
-  - M1: Library Inventory (`BookInventory`) - Class representation replacing parallel arrays.
-  - M2: Encapsulated Payroll Account (`PayrollAccount`) - Data hiding and method-level validation.
-  - M3: Overloaded Constructors for Employee (`Employee`) - Constructor chaining using `this(...)`.
-  - M4: Reference Copies & Shared Exam Hall Ticket (`HallTicket`) - Object reference vs instance identity.
-  - M5: Instance vs Static Members (`Employee`) - Class-level state and static method design.
+- Completed Week 4 Practice & Assignment problems (Constructors, `this` keyword, `final` methods, `static` blocks, `instanceof` dispatch).
+- Pushed `feature/session_4` branch to GitHub.
 
 **Next Session Plan:**
-- Continue with upcoming OOP concepts and session exercises.
+- Continue with upcoming Semester 3 sessions and OOP coursework.
 
 **Issues Faced:**
 - None
+
+---
+
+## Date: 28-08-2026
+
+**Today's Work:**
+- Completed Week 3 Practice & Assignment problems (Classes, Encapsulation, Constructor Overloading, Reference Copies, Static vs Instance members).
+- Updated `feature/session_3` branch structure.
+
+**Next Session Plan:**
+- Work on Week 4 topics.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 27-08-2026
+
+**Today's Work:**
+- Completed Week 2 Practice & Assignment problems (Strings, Vowels/Consonants counter, CSV parsers, File Extension validator, Phone masking, Bank/Library ISBN validators, Word Frequency report).
+- Created `feature/session_2` branch.
+
+**Next Session Plan:**
+- Move to Week 3 OOP concepts.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 26-08-2026
+
+**Today's Work:**
+- Initialized GitHub repository structure (`main`, `develop`, `feature/session_1`).
+- Completed Week 1 Practice & Assignment problems (Rock-Paper-Scissors, Palindrome checker, BMI calculator, First Non-Repeating Char, Name Reversal, Seat Duplication, Typing Accuracy, Signal Streak, Warehouse Balancer, Movie Profiler).
+
+**Next Session Plan:**
+- Work on Week 2 String manipulation problems.
+
+**Issues Faced:**
+- None
+
 ---
