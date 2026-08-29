@@ -1,4 +1,4 @@
-package oop.assigment_problems;
+package week3.assigment_problems;
 
 public class BookInventory {
     String title;
