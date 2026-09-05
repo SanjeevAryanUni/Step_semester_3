@@ -2,6 +2,20 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
+## Date: 05-09-2026
+
+**Today's Work:**
+- Completed Week 5 Practice & Assignment problems (Access Modifiers, Encapsulation, JavaBeans, Defensive Copying, Immutability & `instanceof` dispatch).
+- Created and pushed `feature/session_5` branch to GitHub.
+
+**Next Session Plan:**
+- Continue with upcoming Semester 3 sessions and advanced OOP coursework.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 29-08-2026
 
 **Today's Work:**
