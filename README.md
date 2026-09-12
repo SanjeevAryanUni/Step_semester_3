@@ -2,6 +2,20 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
+## Date: 12-09-2026
+
+**Today's Work:**
+- Completed Week 6 Practice & Assignment problems (Inheritance hierarchy, `super` constructor/method forwarding, method overriding with defensive history array, polymorphic `batchPrint` with guarded downcast, static member numbers & referral validation).
+- Created and pushed `feature/session_6` branch to GitHub.
+
+**Next Session Plan:**
+- Continue with upcoming Semester 3 sessions and advanced OOP coursework.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 05-09-2026
 
 **Today's Work:**
