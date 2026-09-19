@@ -2,6 +2,20 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Week 7 Category B Assignment problems (Abstract classes, Interfaces, Multilevel inheritance hierarchy, Multiple interface implementations, Polymorphic method dispatch with `instanceof` trackable objects).
+- Created and pushed `feature/session_7` branch to GitHub.
+
+**Next Session Plan:**
+- Implement Week 7 Practice Problems once received.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 12-09-2026
 
 **Today's Work:**
