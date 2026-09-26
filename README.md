@@ -2,6 +2,20 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
+## Date: 26-09-2026
+
+**Today's Work:**
+- Completed Week 8 Practice & Category B Assignment problems (Object-Oriented Design, UML Relationships, Multiplicity, Abstraction, Polymorphic Domain Models, Lifecycle States).
+- Created and pushed `feature/session_8` branch to GitHub.
+
+**Next Session Plan:**
+- Continue with upcoming Semester 3 sessions and advanced OOP coursework.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 19-09-2026
 
 **Today's Work:**
