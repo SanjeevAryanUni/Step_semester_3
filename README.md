@@ -2,6 +2,20 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
+## Date: 07-10-2026
+
+**Today's Work:**
+- Completed Week 9 Practice & Category B Assignment problems (Data Structures: Binary Search on sorted catalog, 2D Grid aggregations, Two-Sum hash map vs brute force, Two-Pointer Container with Most Water, Sliding Window temperature alerts, Merge Sorted Token Queues, Frequency counting, Binary Search insert slot finder, plus Big-O Complexity & Quiz solutions).
+- Created and pushed `feature/session_9` branch to GitHub.
+
+**Next Session Plan:**
+- Continue with upcoming Semester 3 sessions and advanced algorithms.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 26-09-2026
 
 **Today's Work:**
