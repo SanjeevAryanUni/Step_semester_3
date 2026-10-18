@@ -2,6 +2,20 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
+## Date: 18-10-2026
+
+**Today's Work:**
+- Completed Week 10 Category B Assignment problems (Linked Lists: Singly linked list priority token insertion, Cancelled orders cleanup, In-place queue reversal, Doubly linked list bidirectional train coach detachment, and Circular linked list round-robin game turns).
+- Created and pushed `feature/session_10` branch to GitHub.
+
+**Next Session Plan:**
+- Implement Week 10 Practice Problems once received.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 07-10-2026
 
 **Today's Work:**
