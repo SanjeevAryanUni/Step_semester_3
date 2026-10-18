@@ -5,11 +5,14 @@ Repository for Step Semester 3 coursework, tracking daily session progress and a
 ## Date: 18-10-2026
 
 **Today's Work:**
-- Completed Week 10 Category B Assignment problems (Linked Lists: Singly linked list priority token insertion, Cancelled orders cleanup, In-place queue reversal, Doubly linked list bidirectional train coach detachment, and Circular linked list round-robin game turns).
+- Completed Week 10 Practice & Category B Assignment problems:
+  - Linked Lists: Singly linked list priority token insertion, Cancelled orders cleanup, In-place queue reversal, Doubly linked list bidirectional train coach detachment, and Circular linked list round-robin game turns.
+  - OOP & System Design: Bank Account Withdrawal System (Savings & Current accounts), Campus Vehicle Pass System with `Chargeable` interface, Student Club Registration Management with `equals`/`hashCode`, Class Marks Grid Analysis, and Payroll Register System.
+  - Complete solutions for 20 Quiz questions and 10 in-depth Concept questions on OOP and Data Structures.
 - Created and pushed `feature/session_10` branch to GitHub.
 
 **Next Session Plan:**
-- Implement Week 10 Practice Problems once received.
+- Continue with upcoming Semester 3 sessions.
 
 **Issues Faced:**
 - None
