@@ -2,7 +2,27 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
-## Date: 07-11-2026
+## Date: 07-11-2026 (Week 11 / Session 11)
+
+**Today's Work:**
+- Implemented and verified all 5 Week 11 Category B Sorting Algorithm Assignment Problems on branch `feature/session_11`:
+  - Problem 1: `NoticeBoardShuffle.java` — Optimized Bubble Sort with early termination flag returning `[passes, swaps]` ($O(n)$ best, $O(n^2)$ worst, $O(1)$ space, Stable).
+  - Problem 2: `HackathonRegistrationDesk.java` — Insertion Sort ordering teams by size in ascending order ($O(n)$ best, $O(n^2)$ worst, $O(1)$ space, Stable).
+  - Problem 3: `AttendanceDisorderScore.java` — Merge Sort counting inversion pairs during merge ($O(n \log n)$ time, $O(n)$ space, Stable).
+  - Problem 4: `PlacementCutoff.java` — Quickselect using Quicksort partitioning (last element pivot) to find the $k$-th highest mark in $O(n)$ average time, $O(1)$ space.
+  - Problem 5: `ContestLeaderboard.java` — Counting Sort sorting marks $(0..100)$ descending, traversing backward to preserve submission order ($O(n + k)$ time, $O(n + k)$ space, Stable).
+- Tested all 5 assignment solutions against edge cases and sample outputs.
+- Pushed branch `feature/session_11` to GitHub.
+
+**Next Session Plan:**
+- Continue with Week 11 practice problems or upcoming Data Structures sessions.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 07-11-2026 (Week 10 Practice)
 
 **Today's Work:**
 - Completed Week 10 Category B Linked List Practice Problems:
