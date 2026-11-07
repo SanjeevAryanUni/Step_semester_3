@@ -2,6 +2,31 @@
 
 Repository for Step Semester 3 coursework, tracking daily session progress and assignments.
 
+## Date: 07-11-2026
+
+**Today's Work:**
+- Completed Week 10 Category B Linked List Practice Problems:
+  - Print Circular Singly Linked List (`printCircular`)
+  - Insert at Tail of Doubly Linked List from Head (`insertAtTailDoubly`)
+  - Remove First K Nodes from Singly Linked List (`removeFirstKNodes`)
+  - Delete N-th Node from Singly Linked List (`deleteNthNode`)
+  - Split Singly Linked List into Two Halves using fast & slow pointers (`splitListInHalf`)
+  - Reverse First K Nodes of Singly Linked List (`reverseFirstKNodes`)
+  - Count Nodes in Singly Linked List (`countNodes`)
+  - Check if Singly Linked List is Empty (`checkIfEmpty`)
+  - Insert at End of Circular Singly Linked List (`insertAtEndCircular`)
+  - Delete Last Node from Doubly Linked List (`deleteLastNodeDoubly`)
+  - Complete solutions for 10 Quiz questions and 5 in-depth Concept questions on Linked Lists.
+- Pushed updates to `feature/session_10` branch on GitHub.
+
+**Next Session Plan:**
+- Continue with upcoming Semester 3 sessions and data structure coursework.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 18-10-2026
 
 **Today's Work:**
@@ -12,7 +37,7 @@ Repository for Step Semester 3 coursework, tracking daily session progress and a
 - Created and pushed `feature/session_10` branch to GitHub.
 
 **Next Session Plan:**
-- Continue with upcoming Semester 3 sessions.
+- Implement Week 10 Practice Problems once received.
 
 **Issues Faced:**
 - None
